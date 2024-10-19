@@ -1,5 +1,6 @@
 ![logo](https://github.com/Roshani-Analyst/Roshani-Analyst/blob/main/Data%20Analyst.png)
 <h1 align="center">Hi 👋, I'm Roshani Aade</h1>
+Welcome to my GitHub profile! I'm a passionate data analysis professional with a solid background in SQL, Power BI, and Excel. I'm eager to leverage my skills to analyze intricate datasets and provide valuable insights that drive critical decisions for organizations.
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="Analysis" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
@@ -10,17 +11,23 @@
 
 - 💬 Ask me about **SQL, Excel, Power BI, and Data**
 
+- 🌱 Actively exploring advanced data visualization techniques
+
 - 📫 How to reach me **roshaniaade412@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny😅**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/roshanianalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshani aade" height="30" width="40" /></a>
-</p>
+## 📫 Let's Connect!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshanianalyst)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roshani-Analyst)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshaniaade412@gmail.com)
+
+## Skills
+
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshani-analyst&show_icons=true&locale=en&layout=compact" alt="roshani-analyst" /></p>
 
